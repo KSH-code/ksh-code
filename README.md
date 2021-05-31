@@ -3,7 +3,6 @@
 I love to contribute to opensource projects.
 
 Libraries I Contributed to
-- https://github.com/sindresorhus/refined-github/pull/4435
 - https://github.com/sindresorhus/refined-github/pull/4418
 - https://github.com/jdesboeufs/connect-mongo/pull/301
 
