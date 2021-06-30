@@ -3,4 +3,4 @@
 I love to contribute to opensource projects.
 
 # Personal Note
-- [WIP](https://github.com/sindresorhus/refined-github/issues/4492) start it until 7.1.
+- [WIP](https://github.com/sindresorhus/refined-github/issues/4492) starts it until 7.1.
