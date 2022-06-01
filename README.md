@@ -1,5 +1,2 @@
-알고리즘 스터디 진행 중
-- [라이 블로그 문제집](https://www.acmicpc.net/workbook/view/11241)
-- [정수론](https://www.acmicpc.net/workbook/view/11222)
-
-문의는 tjdgnsqn133@gmail.com
+알고리즘 스터디 진행 중입니다.
+같이 하실 분 계시면 tjdgnsqn133@gmail.com 로 연락주세요.
