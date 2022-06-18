@@ -3,4 +3,4 @@
 
 - [g2p4](https://solved.ac/search?query=*g2..p4+-solved_by%3Atjdgnsqn3+lang%3Ako+solved%3A200..+&sort=random&direction=asc&page=1)
 - [백준 내 문제집](https://www.acmicpc.net/workbook/by/tjdgnsqn3)
-- [codeforces](https://codeforces.com/problemset?tags=1400-1600)
+- [codeforces](https://codeforces.com/problemset?tags=1500-1700)
