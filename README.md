@@ -1,7 +1,6 @@
 # Algorithm Problems Finders
 
 - [1 leetcode](https://leetcode.com/problems/random-one-question/algorithms)
-- [1 CP](https://cp-algorithms.com/algebra/binary-exp.html)
 
 # Articles Finders
 
