@@ -10,3 +10,4 @@
 - [Baemin](https://techblog.woowahan.com/)
 - [Debezium](https://debezium.io/blog/)
 - [Github Readme](https://github.com/readme)
+- [Slack](https://slack.engineering/)
