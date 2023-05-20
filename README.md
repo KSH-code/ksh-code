@@ -11,3 +11,4 @@
 - [Debezium](https://debezium.io/blog/)
 - [Github Readme](https://github.com/readme)
 - [Slack](https://slack.engineering/)
+- [Vlad Mihalcea](https://vladmihalcea.com/blog/)
