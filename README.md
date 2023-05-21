@@ -5,10 +5,30 @@
 
 # Articles Finders
 
-- [GeekNews](https://news.hada.io/new)
+## Monday
 - [Blog Posts](https://techblogposts.com/)
-- [Baemin](https://techblog.woowahan.com/)
+- [GeekNews](https://news.hada.io/new)
+## Tuesday
+- [Blog Posts](https://techblogposts.com/)
+- [GeekNews](https://news.hada.io/new)
+## Wednesday
+- [Blog Posts](https://techblogposts.com/)
+- [GeekNews](https://news.hada.io/new)
+## Thursday
+- [Blog Posts](https://techblogposts.com/)
+- [GeekNews](https://news.hada.io/new)
+## Friday
+- [Blog Posts](https://techblogposts.com/)
+- [GeekNews](https://news.hada.io/new)
+## Saturday
+- [GeekNews](https://news.hada.io/new)
+## Sunday
+- [GeekNews](https://news.hada.io/new)
+
+## Uncategorized
 - [Debezium](https://debezium.io/blog/)
-- [Github Readme](https://github.com/readme)
-- [Slack](https://slack.engineering/)
+- [Discord](https://discord.com/category/engineering)
 - [Vlad Mihalcea](https://vladmihalcea.com/blog/)
+- [Slack](https://slack.engineering/)
+- [Baemin](https://techblog.woowahan.com/)
+- [Github Readme](https://github.com/readme)
