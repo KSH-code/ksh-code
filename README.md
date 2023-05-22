@@ -11,7 +11,7 @@
 ## Tuesday
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
-- [Coupang](https://medium.com/@coupang-engineering)
+- [Coupang](https://medium.com/@coupang-engineering-kr)
 ## Wednesday
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
