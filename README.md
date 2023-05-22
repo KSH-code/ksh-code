@@ -11,6 +11,7 @@
 ## Tuesday
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
+- [Coupang](https://medium.com/@coupang-engineering)
 ## Wednesday
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
@@ -32,3 +33,9 @@
 - [Slack](https://slack.engineering/)
 - [Baemin](https://techblog.woowahan.com/)
 - [Github Readme](https://github.com/readme)
+
+## To be read
+- non-blocking
+  - https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part1
+  - https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part2
+  - https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3
