@@ -36,3 +36,6 @@
 - [Kakao Pay](https://tech.kakaopay.com/)
 - [Netfix](https://netflixtechblog.medium.com/)
 - [Uber](https://www.uber.com/en-SE/blog/engineering/)
+
+books
+- https://sre.google/books/
