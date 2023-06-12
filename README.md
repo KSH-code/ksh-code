@@ -11,7 +11,6 @@
 ## Tuesday
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
-- [Coupang](https://medium.com/@coupang-engineering-kr)
 ## Wednesday
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
@@ -27,15 +26,19 @@
 - [GeekNews](https://news.hada.io/new)
 
 ## Uncategorized
-- [Debezium](https://debezium.io/blog/)
+- [Coupang](https://medium.com/@coupang-engineering-kr)
 - [Discord](https://discord.com/category/engineering)
-- [Vlad Mihalcea](https://vladmihalcea.com/blog/)
 - [Slack](https://slack.engineering/)
-- [Baemin](https://techblog.woowahan.com/)
-- [Github Readme](https://github.com/readme)
 - [Kakao Pay](https://tech.kakaopay.com/)
 - [Netfix](https://netflixtechblog.medium.com/)
 - [Uber](https://www.uber.com/en-SE/blog/engineering/)
+- [Baemin](https://techblog.woowahan.com/)
+
+## Monthly
+- [Debezium](https://debezium.io/blog/)
+- [Vlad Mihalcea](https://vladmihalcea.com/blog/)
+- [Github Readme](https://github.com/readme)
 
 books
 - https://sre.google/books/
+- https://staffeng.com/guides/present-to-executives/
