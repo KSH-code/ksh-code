@@ -4,25 +4,9 @@
 - [1 random](https://solved.ac/search?query=%28*b5..p3+-%40%24me%29+%28lang%3Ako+%7C+lang%3Aen%29&sort=random&direction=asc&page=1)
 
 # Articles Finders
-
-## Monday
+## Daily
+- [Leetcode Insight](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=newest_to_oldest&query=)
 - [Blog Posts](https://techblogposts.com/)
-- [GeekNews](https://news.hada.io/new)
-## Tuesday
-- [Blog Posts](https://techblogposts.com/)
-- [GeekNews](https://news.hada.io/new)
-## Wednesday
-- [Blog Posts](https://techblogposts.com/)
-- [GeekNews](https://news.hada.io/new)
-## Thursday
-- [Blog Posts](https://techblogposts.com/)
-- [GeekNews](https://news.hada.io/new)
-## Friday
-- [Blog Posts](https://techblogposts.com/)
-- [GeekNews](https://news.hada.io/new)
-## Saturday
-- [GeekNews](https://news.hada.io/new)
-## Sunday
 - [GeekNews](https://news.hada.io/new)
 
 ## Uncategorized
