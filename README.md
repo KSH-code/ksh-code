@@ -26,3 +26,11 @@
 books
 - https://sre.google/books/
 - https://staffeng.com/guides/present-to-executives/
+
+읽어야 할 것
+- https://meetup.nhncloud.com/posts/367
+- https://www.uber.com/en-SE/blog/kafka-async-queuing-with-consumer-proxy/
+- https://www.uber.com/en-uS/blog/real-time-push-platform/
+- https://www.uber.com/en-SE/blog/ubers-next-gen-push-platform-on-grpc/
+- https://www.uber.com/en-SE/blog/simplifying-developer-testing-through-slate/
+- https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70
