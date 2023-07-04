@@ -28,6 +28,7 @@ books
 - https://staffeng.com/guides/present-to-executives/
 
 읽어야 할 것
+- https://www.dataorienteddesign.com/dodbook/node1.html
 - https://meetup.nhncloud.com/posts/367
 - https://www.uber.com/en-SE/blog/kafka-async-queuing-with-consumer-proxy/
 - https://www.uber.com/en-uS/blog/real-time-push-platform/
