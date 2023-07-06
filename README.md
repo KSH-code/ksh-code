@@ -29,7 +29,6 @@ books
 - https://www.dataorienteddesign.com/dodbook/node1.html
 
 읽어야 할 것
-- https://meetup.nhncloud.com/posts/367
 - https://www.uber.com/en-SE/blog/kafka-async-queuing-with-consumer-proxy/
 - https://www.uber.com/en-uS/blog/real-time-push-platform/
 - https://www.uber.com/en-SE/blog/ubers-next-gen-push-platform-on-grpc/
