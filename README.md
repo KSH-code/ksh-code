@@ -35,10 +35,12 @@ books
 - https://www.uber.com/en-SE/blog/simplifying-developer-testing-through-slate/
 - https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70
 
-공부할 내용
-- read-ahead최적화
-- 스트리밍 버퍼링 JDBC, r2dbc구현
-- temp table의 varchar의 성능 느린건 deep-dive
 
-공부한 내용
-- 
+스터디 그룹
+- Real MYSQL(Leader): 2023-06-04 ~
+  - read-ahead최적화
+  - 스트리밍 버퍼링 JDBC, r2dbc구현
+  - temp table의 varchar의 성능 느린건 deep-dive
+- Paper Research(Participant): 2023-06-27 ~
+- Spring(Leader): 2023-07-05 ~
+- DDD(Leader): TBD
