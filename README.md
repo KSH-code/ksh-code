@@ -35,6 +35,8 @@ books
 - https://www.uber.com/en-SE/blog/simplifying-developer-testing-through-slate/
 - https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70
 
+정리하면 좋을 내용
+- 스프링은 AOP를 어떻게 내부적으로 처리하는가? in low level
 
 스터디 그룹
 - Real MYSQL(Leader): 2023-06-04 ~
