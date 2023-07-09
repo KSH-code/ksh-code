@@ -34,3 +34,11 @@ books
 - https://www.uber.com/en-SE/blog/ubers-next-gen-push-platform-on-grpc/
 - https://www.uber.com/en-SE/blog/simplifying-developer-testing-through-slate/
 - https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70
+
+공부할 내용
+- read-ahead최적화
+- 스트리밍 버퍼링 JDBC, r2dbc구현
+- temp table의 varchar의 성능 느린건 deep-dive
+
+공부한 내용
+- 
