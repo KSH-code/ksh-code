@@ -42,7 +42,7 @@ books
 - Real MYSQL(Leader): 2023-06-04 ~
   - read-ahead최적화
   - 스트리밍 버퍼링 JDBC, r2dbc구현
-  - temp table의 varchar의 성능 느린건 deep-dive
+  - [temp table의 varchar의 성능 느린건 deep-dive](https://github.com/KSH-code/study/blob/master/varchar-fixed-length.md)
 - Paper Research(Participant): 2023-06-27 ~
 - Spring(Leader): 2023-07-05 ~
 - DDD(Leader): TBD
