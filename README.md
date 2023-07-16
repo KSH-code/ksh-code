@@ -44,7 +44,7 @@ books
   - 스트리밍 버퍼링 JDBC, r2dbc구현
   - [temp table의 varchar의 성능 느린건 deep-dive](https://github.com/KSH-code/study/blob/master/varchar-fixed-length.md)
   - index condition pushdonw의 성능 고찰
-  - optimizer search 설정 변경에 따른 성능 변경 관찰
+  - optimizer search 설정 변경에 따른 성능 변경 관찰 (join)
 - Paper Research(Participant): 2023-06-27 ~
 - Spring(Leader): 2023-07-05 ~
 - DDD(Leader): TBD
