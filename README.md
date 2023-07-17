@@ -29,11 +29,8 @@ books
 - https://www.dataorienteddesign.com/dodbook/node1.html
 
 읽어야 할 것
-- https://www.uber.com/en-SE/blog/kafka-async-queuing-with-consumer-proxy/
-- https://www.uber.com/en-uS/blog/real-time-push-platform/
-- https://www.uber.com/en-SE/blog/ubers-next-gen-push-platform-on-grpc/
-- https://www.uber.com/en-SE/blog/simplifying-developer-testing-through-slate/
-- https://betterprogramming.pub/the-truth-about-your-source-of-truth-a1eb833c2d70
+- airflow에 대해
+- 
 
 정리하면 좋을 내용
 - 스프링은 AOP를 어떻게 내부적으로 처리하는가? in low level
