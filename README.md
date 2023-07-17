@@ -30,7 +30,7 @@ books
 
 읽어야 할 것
 - airflow에 대해
-- 
+- https://naina0405.substack.com/p/mega-launch-105-new-system-design
 
 정리하면 좋을 내용
 - 스프링은 AOP를 어떻게 내부적으로 처리하는가? in low level
