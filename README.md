@@ -43,5 +43,4 @@ books
   - index condition pushdonw의 성능 고찰
   - optimizer search 설정 변경에 따른 성능 변경 관찰 (join)
 - Paper Research(Participant): 2023-06-27 ~
-- Spring(Leader): 2023-07-05 ~
 - DDD(Leader): TBD
