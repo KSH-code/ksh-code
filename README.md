@@ -17,6 +17,7 @@
 - [Netfix](https://netflixtechblog.medium.com/)
 - [Uber](https://www.uber.com/en-SE/blog/engineering/)
 - [Baemin](https://techblog.woowahan.com/)
+- [Mysql](https://dev.mysql.com/blog-archive/)
 
 ## Monthly
 - [Debezium](https://debezium.io/blog/)
