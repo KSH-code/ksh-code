@@ -44,4 +44,7 @@ books
   - index condition pushdonw의 성능 고찰
   - optimizer search 설정 변경에 따른 성능 변경 관찰 (join)
 - Paper Research(Participant): 2023-06-27 ~
-- DDD(Leader): TBD
+- DDD(Leader): 2023-07-27 ~
+  - 도메인이란 무엇인가?
+  - DDD를 조직에 적용하는 방법?
+  - 
