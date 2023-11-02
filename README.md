@@ -21,4 +21,6 @@
 - [Vlad Mihalcea](https://vladmihalcea.com/blog/)
 - [Github Readme](https://github.com/readme)
 - [Mysql](https://blogs.oracle.com/mysql/)
+- [Notion](https://www.notion.so/blog/topic/tech)https://www.notion.so/blog/topic/tech
+
 
