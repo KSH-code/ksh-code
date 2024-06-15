@@ -1,6 +1,6 @@
 # Algorithm Problems Finders
 
-- [1 leetcode](https://leetcode.com/problems/random-one-question/algorithms)
+- [1 leetcode](https://leetcode.com/problemset/?difficulty=HARD&page=1&status=NOT_STARTED)
 - [Atcoder problems](https://kenkoooo.com/atcoder#/table/tjdgnsqn3)
 
 
