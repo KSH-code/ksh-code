@@ -14,4 +14,3 @@
 - [Slack](https://slack.engineering/)
 - [Netfix](https://netflixtechblog.com/)
 - [Uber](https://www.uber.com/en-SE/blog/engineering/)
-- [Debezium](https://debezium.io/blog/)
