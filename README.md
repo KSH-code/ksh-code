@@ -2,7 +2,7 @@
 
 - [1 leetcode](https://leetcode.com/problemset/?difficulty=HARD&page=1&status=NOT_STARTED)
 - [Atcoder problems](https://kenkoooo.com/atcoder#/table/tjdgnsqn3)
-- [Codeforces](https://cf-recommender.org)
+- [Codeforces](https://cftracker.netlify.app/contests)
 
 
 # Articles Finders
