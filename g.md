@@ -1,6 +1,6 @@
 # Algorithm Problems Finders
 
-- [1 leetcode](https://leetcode.com/problemset/?difficulty=HARD&page=1&status=NOT_STARTED)
+- [1 leetcode](https://leetcode.com/problems/employee-free-time/description/?envType=company&envId=google&favoriteSlug=google-six-months&difficulty=HARD&role=backend)
 - [Atcoder problems](https://kenkoooo.com/atcoder#/table/tjdgnsqn3)
 - [Codeforces](https://cftracker.netlify.app/contests)
 
