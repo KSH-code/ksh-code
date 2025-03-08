@@ -2,7 +2,6 @@
 ## Daily
 - [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
-- [Blog Posts 2](https://www.velopers.kr/)
 
 ## ?
 - [Discord](https://discord.com/category/engineering)
