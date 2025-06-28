@@ -1,6 +1,5 @@
 # Articles Finders
 ## Daily
-- [Blog Posts](https://techblogposts.com/)
 - [GeekNews](https://news.hada.io/new)
 
 ## ?
